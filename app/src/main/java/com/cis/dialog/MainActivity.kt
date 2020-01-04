@@ -1,4 +1,4 @@
-package com.cis.listdialog
+package com.cis.dialog
 
 import android.app.DatePickerDialog
 import android.app.TimePickerDialog

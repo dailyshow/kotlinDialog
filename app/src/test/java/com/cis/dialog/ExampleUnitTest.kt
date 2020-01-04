@@ -1,4 +1,4 @@
-package com.cis.listdialog
+package com.cis.dialog
 
 import org.junit.Test
 
